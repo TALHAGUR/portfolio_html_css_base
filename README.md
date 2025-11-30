@@ -42,13 +42,3 @@ No installation required.
 
 ## 📂 Folder Structure
 
-/
-├── index.html
-├── css/
-│ └── style.css
-└── images/
-├── avatar/
-├── posts/
-├── works/
-├── skills/
-└── tools/
