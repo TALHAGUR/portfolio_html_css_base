@@ -41,4 +41,16 @@ No installation required.
 ---
 
 ## 📂 Folder Structure
+```bash
+portfolio_tg/
+├── index.html
+├── css/
+│   └── style.css
+└── images/
+    ├── avatar/
+    ├── books/
+    ├── posts/
+    ├── skills/
+    ├── tools/
+    └── works/
 
