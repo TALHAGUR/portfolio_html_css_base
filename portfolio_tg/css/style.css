@@ -2461,3 +2461,10 @@ body {
 .mobile-burger-menu ul li a {
   padding: 0;
 }
+
+#typed {
+  background: linear-gradient(90deg, rgba(42,123,155,1) 0%, rgba(87,199,133,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 600;
+}
